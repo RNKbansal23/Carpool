@@ -1,0 +1,6 @@
+.vscode
+.idea
+package-lock.json
+.env
+misc/
+__pycache__/
